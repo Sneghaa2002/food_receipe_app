@@ -28,4 +28,4 @@ Click on a recipe to view its details.
 Use the "Add to Favorites" button to save your favorite recipes.
 
 
-
+<img width="925" alt="image" src="https://github.com/user-attachments/assets/1e47c76d-0cc7-407f-9b26-0433179ebf2a">
