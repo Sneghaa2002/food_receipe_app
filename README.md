@@ -22,6 +22,7 @@ Technologies Used
 -> Tailwind CSS: For styling the application.
 
 Usage
+
 -> Open the app in your browser at http://localhost:3000.
 
 -> Enter a search term to find recipes.
