@@ -4,12 +4,18 @@ The Food Recipe App is a web application that allows users to search for recipes
 
 Features
 Recipe Search: Users can search for recipes using keywords.
+
 Recipe Details: View detailed information about each recipe, including ingredients and preparation steps.
+
 Favorites Management: Add or remove recipes from a list of favorites for easy access later.
+
 Technologies Used
 React: For building the user interface.
+
 React Router: For navigation between pages.
+
 Forkify API: Provides the recipe data.
+
 Tailwind CSS: For styling the application.
 
 Usage
