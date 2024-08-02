@@ -1,1 +1,1 @@
-# food_receipe_app
+# food_recipe_app
