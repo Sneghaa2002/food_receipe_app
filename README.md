@@ -29,3 +29,6 @@ Use the "Add to Favorites" button to save your favorite recipes.
 
 
 <img width="925" alt="image" src="https://github.com/user-attachments/assets/1e47c76d-0cc7-407f-9b26-0433179ebf2a">
+
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/5de96b4c-df84-4dfc-a456-08bd06d273d8">
+
