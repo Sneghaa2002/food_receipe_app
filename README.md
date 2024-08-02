@@ -26,3 +26,5 @@ Open the app in your browser at http://localhost:3000.
 Enter a search term to find recipes.
 Click on a recipe to view its details.
 Use the "Add to Favorites" button to save your favorite recipes.
+
+https://github.com/Sneghaa2002/food_recipe_app/issues/1#issue-2445434770
